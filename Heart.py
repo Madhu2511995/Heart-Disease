@@ -2,8 +2,6 @@
 import numpy as np
 import pandas as pd
 
-import os
-os.chdir("/Users/Madhusudan Prajapati/Desktop/heart")
 
 import warnings
 import pickle
